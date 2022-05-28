@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LPD-hoodie-React-Boot/static/css/main.ce3e690b.css",
+    "main.js": "/LPD-hoodie-React-Boot/static/js/main.1e04f1c1.js",
+    "static/js/787.bf638644.chunk.js": "/LPD-hoodie-React-Boot/static/js/787.bf638644.chunk.js",
+    "static/media/gilbert.png": "/LPD-hoodie-React-Boot/static/media/gilbert.c5653c15ab259c92319d.png",
+    "static/media/nike.png": "/LPD-hoodie-React-Boot/static/media/nike.54cd07c196560293f4b8.png",
+    "index.html": "/LPD-hoodie-React-Boot/index.html",
+    "main.ce3e690b.css.map": "/LPD-hoodie-React-Boot/static/css/main.ce3e690b.css.map",
+    "main.1e04f1c1.js.map": "/LPD-hoodie-React-Boot/static/js/main.1e04f1c1.js.map",
+    "787.bf638644.chunk.js.map": "/LPD-hoodie-React-Boot/static/js/787.bf638644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce3e690b.css",
+    "static/js/main.1e04f1c1.js"
+  ]
+}
